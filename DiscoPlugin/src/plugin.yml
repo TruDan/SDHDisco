@@ -1,0 +1,7 @@
+name: SDHDisco
+version: 0.1
+main: com.sirdrakeheart.disco.discoMain
+commands:
+  disco:
+    description: Used to make a disco!
+    usage: /disco
