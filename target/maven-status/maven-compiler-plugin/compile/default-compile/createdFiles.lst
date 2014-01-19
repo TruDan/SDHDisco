@@ -1,0 +1,7 @@
+com\sirdrakeheart\disco\discoBlockListener.class
+com\sirdrakeheart\disco\coordinateWriter.class
+com\sirdrakeheart\disco\discoCmdExecutor.class
+com\sirdrakeheart\disco\coordinateReader.class
+com\sirdrakeheart\disco\discoPreferences.class
+com\sirdrakeheart\disco\discoMain.class
+com\sirdrakeheart\disco\discoWoolChanger.class
